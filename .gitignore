@@ -5,6 +5,7 @@
 
 # testing
 /coverage
+/.idea
 
 # production
 /build
@@ -17,6 +18,8 @@
 .env.production.local
 *.lock
 package-lock.json
+*.xml
+
 
 
 npm-debug.log*
